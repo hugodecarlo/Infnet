@@ -1,0 +1,3 @@
+# Esse so tem aqui
+for num in range(1,10):
+  print(num)
